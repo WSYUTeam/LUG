@@ -14,10 +14,10 @@
     群策群力解决令人抓耳挠腮的问题，
     共同发扬 GNU 文化，提高 Linux 水平。 自 2018 年 1 月起，每周
     
-    晚上有每周小聚活动，由一位同学做技术分享演讲，欢迎所有师生参与。具体时间、地点和内容会在周四发到邮件列表和瀚海星云BBS Notice/Linux 版上。
+    晚上有每周小聚活动，由一位同学做技术分享演讲，欢迎所有师生参与。具体时间、地点和内容会在周四发到邮件列表和BBS Notice/Linux 版上。
 
 如果您希望讨论某个主题或主持小聚，欢迎加入LUG邮件列表
 
 每周小聚的时间地点我们会通过LUG邮件列表、BBS Linux/Notice 版等 SNS 发出通知，请大家持续关注！
 
-每周小聚的资料在这里：https://github.com/WSYUTeam/LUG/weekly_party/
+每周小聚的资料在这里：https://github.com/WSYUTeam/LUG/labels/每周小聚
