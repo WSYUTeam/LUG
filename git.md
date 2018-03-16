@@ -1,4 +1,7 @@
 
+# 安装git工具
+sudo apt-get install git
+
 # 创建公钥 ,一路回车就行
 ssh-keygen
 # 查看公钥(默认路径)
