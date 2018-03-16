@@ -1,11 +1,12 @@
 
 # 安装git工具
-sudo apt-get install git
+## sudo apt-get install git
 
 # 创建公钥 ,一路回车就行
-ssh-keygen
+## ssh-keygen
+
 # 查看公钥(默认路径)
-cat ~/.ssh/id_rsa.pub
+## cat ~/.ssh/id_rsa.pub
 
 # 将公钥加入到github的ssh key里面
 https://github.com/settings/keys
