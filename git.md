@@ -1,4 +1,11 @@
 
+# 创建公钥 ,一路回车就行
+ssh-keygen
+# 查看公钥(默认路径)
+cat ~/.ssh/id_rsa.pub
+
+# 将公钥加入到github的ssh key里面
+https://github.com/settings/keys
 
 # 把仓库的代码克隆到本地
 ## git clone git@github.com:tsuibin/firstapp.git 
